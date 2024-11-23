@@ -1,1 +1,1 @@
-
+Given a positive integer n, determine the number of equivalence relations on a set with n elements. It is necessary to calculate a complete search, checking each relation. Display all the equivalence relations on the set of the n smallest positive integers.
